@@ -1,0 +1,1 @@
+# Applicable-scope-of-Multiplicative-Entropy
