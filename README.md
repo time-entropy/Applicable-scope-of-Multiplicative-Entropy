@@ -10,7 +10,7 @@ A system or a physical model can adopt a multiplicative entropy description if i
 
 4.The dynamical evolution follows a flow or exchange rule wherein quantities transfer from units with higher values to those with lower values.
 
-5. The numerical value carried by each unit must be unitized, i.e., expressed as an integer multiple greater than 1 of the basic unit.In other words, the value carried by any unit is a positive integer.
+5.The numerical value carried by each unit must be unitized, i.e., expressed as an integer multiple greater than 1 of the basic unit.In other words, the value carried by any unit is a positive integer.
 
 Introduction of Multiplicative Entropy: 
 
